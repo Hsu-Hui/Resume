@@ -2151,6 +2151,12 @@ html.no-csstransitions .home-content__main {
     .home-social::after {
         height: 10.2rem;
     }
+    .home-content__buttons {
+        padding-left: 10%;
+        padding-right: 10%;
+        bottom: 2.1rem;
+        text-align: center;
+    }
 }
 
 @media only screen and (max-width: 500px) {
